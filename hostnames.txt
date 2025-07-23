@@ -1,0 +1,5 @@
+sylva - dell r420
+vesania - lenovo rs140
+
+desolo - tiny dell laptop
+novus - wsl on main laptop
