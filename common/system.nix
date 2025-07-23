@@ -41,6 +41,7 @@
         feh
         hyfetch
         p7zip-rar
+        nixfmt-rfc-style
     ];
 
     users.defaultUserShell = pkgs.nushell;
